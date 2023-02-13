@@ -1,0 +1,7 @@
+.table__heading {
+  max-width: 250px;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 600;
+  margin: 0 0 20px 0;
+}
